@@ -1,4 +1,4 @@
-# Paper
+# Paper Details
 
 * **Title**: Understanding How Image Quality Affects Deep Neural Networks
 * **Authors**: Samuel Dodge and Lina Karam
