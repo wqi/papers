@@ -45,7 +45,7 @@ and Super-Resolution
 	
 
 
-
+<br>
 ![Sampling Process](img/perceptual_loss/1.png?raw=true "Sampling process")
 
 
