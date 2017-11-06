@@ -43,9 +43,6 @@ and Super-Resolution
 		| **Per-Pixel Loss**   | 28.40          | 0.8205|
 		| **Perceptual Loss**  | 27.09          | 0.7680|
 	
-
-
-<br>
 ![Sampling Process](img/perceptual_loss/1.png?raw=true "Sampling process")
 
 
