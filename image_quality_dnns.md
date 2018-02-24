@@ -2,7 +2,7 @@
 
 * **Title**: Understanding How Image Quality Affects Deep Neural Networks
 * **Authors**: Samuel Dodge and Lina Karam
-* **Link**: https://arxiv.org/pdf/1604.04004.pdf
+* **Link**: [https://arxiv.org/pdf/1604.04004.pdf](https://arxiv.org/pdf/1604.04004.pdf)
 * **Tags**: Image Quality, Neural Networks, Object Recognition
 * **Year**: 2016
 
@@ -10,7 +10,7 @@
 
 ### What
 
-  * Computer vision algortihsm are often trained and test on high quality image datasets, but input images cannot always be assume to be of high quality.
+  * Computer vision algorithms are often trained and test on high quality image datasets, but input images cannot always be assume to be of high quality.
   * This paper evaluates 4 DNN models for image classification under 5 types of quality distortions: blur, noise, contrast, JPEG, and JPEG 2000 compression.
   * The results indicate the distortion level at which image classification performance begins to degrade and how this differs across network architectures.
   
@@ -39,7 +39,7 @@
 
 * Comparison of network architectures benchmarked in this paper:
  
-   | Method           | PSNR           | SSIM  | Number of Parameters |
+   | Method           | Convolutional Layers           | Full Layers  | Number of Parameters |
 	| :-------------:    |:-------------: | :-----:|:--------------------:|
 	| Caffe Reference | 5 | 3 | 61 million |
 	| VGG-CNN-S | 5 | 3 | 102 million |
