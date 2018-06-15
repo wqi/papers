@@ -1,7 +1,8 @@
 # Paper Summaries
-This repo contains short summaries of papers I've been reading, primarily at the intersection of deep learning and computer vision. If you find this content helpful, please consider leaving a star!
+This repo contains short summaries of papers I've been reading, primarily at the intersection of deep learning and computer vision. If you find this content helpful, please consider leaving a star so future readers can benefit as well!
 
 * Added 6/2018:
+  * [SoundNet: Learning Sound Representations from Unlabeled Video (Aytar, 2016)](/soundnet.md)
   * [Dynamic Memory Networks for Visual and Textual Question Answering (Xiong, 2016)](/dmn_qa.md)
   * [Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books (Zhu, 2015)](/aligning_books_movies.md)
   * [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (Zhu, 2017)](/cyclegan.md)
